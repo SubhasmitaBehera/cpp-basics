@@ -12,8 +12,8 @@
 // you can declare objects along with the class declarion like this:
 /* class Employee{
             // Class definition
-        } harry, rohan, lovish; */
-// harry.salary = 8 makes no sense if salary is private
+        } suman, rohan, lovish; */
+// suman.salary = 8 makes no sense if salary is private
 
 // Nesting of member functions
 
